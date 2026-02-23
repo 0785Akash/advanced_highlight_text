@@ -1,7 +1,16 @@
+## 1.0.2
+
+- Improved documentation
+- Minor internal improvements
+
+## 1.0.1
+
+- Fixed README formatting
+- License correction
+
 ## 1.0.0
 
-- Initial stable release
-- Regex support
+- Initial release
+- Regex highlighting
 - Tap gestures
-- Background highlighting
-- Memory-safe recognizers
+- Background highlight support
