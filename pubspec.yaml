@@ -1,6 +1,6 @@
 name: advanced_highlight_text
 description: A powerful Flutter text highlighter with regex support, tap gestures, and background highlighting.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/0785Akash/advanced_highlight_text
 repository: https://github.com/0785Akash/advanced_highlight_text
 
